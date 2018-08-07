@@ -16,7 +16,7 @@ Once the user has found a burger they like, they can click on the "Devour It" bu
 + ORM (homemade)
 
 ### Try the app on Heroku!
-[Click HERE to try *Eat-da-Burger* for yourself!]()
+[Click HERE to try *Eat-da-Burger* for yourself!](https://eat-tha-burger.herokuapp.com/index)
 
 ### Author
 Mike Graham
